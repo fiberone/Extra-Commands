@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fiberone",
+  "name": "Extra Commands Mod",
+  "description": "Adds a command",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fiberone"],
+  "credits": "made for CLSinger",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
